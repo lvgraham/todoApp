@@ -1,0 +1,11 @@
+DONE --1. initialize node project
+DONE --2. install packages
+DONE --3. create project structure
+4. write a simple server
+5. start adding some tests -// install supertest
+6. continue creating our app
+
+
+1. get all todos -/api/todos - get
+2. create a to do -/api/todos - post
+3. get on todo - api/todos/{id} - get
